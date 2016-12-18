@@ -1,0 +1,64 @@
+breath = 11
+hp = 20
+name = singleplayer
+pitch = 21.7
+position = (1932.22,201.26,4497.9)
+version = 1
+yaw = -91.63
+PlayerArgsEnd
+List main 32
+Width 0
+Item wool:dark_grey
+Item wool:violet
+Item wool:white
+Item wool:dark_green
+Item wool:grey
+Item wool:blue
+Item wool:brown
+Item wool:magenta
+Item wool:red
+Item wool:pink
+Item wool:green
+Item wool:orange
+Item wool:cyan
+Item wool:yellow
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Item default:dirt
+Item default:dirt_with_grass
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory
